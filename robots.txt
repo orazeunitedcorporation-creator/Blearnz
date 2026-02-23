@@ -2,5 +2,3 @@ User-agent: *
 Allow: /
 
 Disallow: /sitemap.xml
-
-Sitemap: https://blearnz.com/sitemap.xml
